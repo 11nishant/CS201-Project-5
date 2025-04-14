@@ -2,7 +2,7 @@
 This project presents a foundational movie recommendation system developed in C, emphasizing core Data Structures and Algorithms (DSA) principles. It simulates basic recommendation logic without relying on external libraries or machine learning frameworks.​
 
 🛠️ Technologies Used
-Language: C​
+Language: C​/C++
 
 Data Structures: 2D Arrays, Stacks​
 GitHub
